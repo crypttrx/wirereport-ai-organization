@@ -1,0 +1,22 @@
+# Logs that change frequently
+*.log
+api_costs.log
+consensus_output.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables (if any)
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
